@@ -1,0 +1,121 @@
+I"�<h1 id="chris-evans">Chris Evans</h1>
+<p>Technical Director, Platform and Reliability</p>
+
+<div id="webaddress">
+<a href="chris@evns.io">chris@evns.io</a>
+| <a href="https://github.com/evnsio">GitHub</a>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Technical Director, Platform and Reliability at Monzo Bank</p>
+
+<p>Responsible for three teams running the core infrastructure underpinning Monzo Bank.
+Includes our physical data centres, our microservice cloud platform in AWS including Kubernetes, Envoy, Kafka, Prometheus and Cassandra, and our developing tooling responsible for getting code form laptops to our customers.</p>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Aug 2020 - Present</code>
+<strong>Monzo Bank</strong>, London</p>
+<ul>
+  <li>Technical Director, Platform and Reliability</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Mar 2018 – Aug 2020</code>
+<strong>Monzo Bank</strong>, London</p>
+<ul>
+  <li>Platform Team Lead</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Feb 2017 - Mar 2018</code>
+<strong>MOO</strong>, London</p>
+<ul>
+  <li>Technical Product Owner, Platform Operations</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Nov 2016 - Feb 2017</code>
+<strong>Marks and Spencer</strong>, London</p>
+<ul>
+  <li>Platform Technology Programme Lead</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Sep 2015 – Nov 2016</code>
+<strong>Marks and Spencer</strong>, London</p>
+<ul>
+  <li>Technical Product Manager, Frameworks and Platform</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Oct 2008 - Sep 2015</code>
+<strong>Infrared Integrated Systems Ltd.</strong>, Northampton</p>
+<ul>
+  <li>Principal Software Engineer</li>
+</ul>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2007-2008</code>
+<strong>University of Bristol</strong></p>
+<ul>
+  <li>MSc, Computer Science (distinction)</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2004-2007</code>
+<strong>University of Bristol</strong></p>
+<ul>
+  <li>BSc, Mathematics</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+<h3 id="conference-talks">Conference Talks</h3>
+<p><code class="language-plaintext highlighter-rouge">2020</code> 
+<a href="https://www.oreilly.com/live-training/courses/oreilly-infrastructure-ops-superstream-series/0636920410027/">Microservices in the Wild</a>, O’Reilly Infrastructure &amp; Ops Superstream, Online</p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<a href="https://www.youtube.com/watch?v=NTgB2z0E9ZU&amp;feature=youtu.be">How to Build a Digital Bank Using AWS</a> - AWS re:Invent, Las Vegas</p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<a href="https://www.youtube.com/watch?v=ZqwVlsIonIw&amp;feature=emb_logo">Managing Incidents at Monzo</a>, Devops Exchange, London</p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<a href="https://speakerdeck.com/evnsio/keeping-a-modern-bank-online">Keeping a Modern Bank Online (slides only)</a> - PagerDuty Connect, London</p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<a href="https://www.youtube.com/watch?v=lu7mQfWI1Jc&amp;feature=emb_logo">Monitoring at Monzo</a> - Prometheus London Meetup, London</p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<a href="https://speakerdeck.com/evnsio/dealing-with-incidents-using-monzo-response">Dealing with Incidents Using Monzo Response (slides only)</a></p>
+
+<h3 id="incident-debriefs">Incident Debriefs</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<a href="https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th">Monzo Public Postmortem - Cassandra Scale-Up Incident</a></p>
+
+<h3 id="blog-posts">Blog Posts</h3>
+<p><code class="language-plaintext highlighter-rouge">2020</code>
+<a href="https://monzo.com/blog/2020/10/19/autoscaling-monzo">Autoscaling Monzo</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">2019</code>
+<a href="https://monzo.com/blog/2019/07/08/how-we-respond-to-incidents">How we respond to incidents</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<a href="https://monzo.com/blog/2018/09/20/on-call">How we do on-call at Monzo</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<a href="https://monzo.com/blog/2018/07/27/how-we-monitor-monzo">How we monitor Monzo</a></p>
+
+<h3 id="patents">Patents</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<a href="https://patents.google.com/patent/EP3428846A1">Occupancy Detection with a Multi-hypothesis Subject Tracker</a></p>
+
+<p><code class="language-plaintext highlighter-rouge">2014</code>
+<a href="https://patents.google.com/patent/EP2838049A2">System and methods for counting objects in a queue</a></p>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+:ET
