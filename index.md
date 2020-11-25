@@ -16,7 +16,7 @@ Technical Director, Platform and Reliability
 Technical Director, Platform and Reliability at Monzo Bank
 
 Responsible for three teams running the core infrastructure underpinning Monzo Bank.
-Includes our physical data centres, our microservice cloud platform built in AWS from Kubernetes, Envoy, Kafka, Prometheus and Cassandra, and our developer tooling responsible for getting code form laptops to our customers.  
+Includes our physical data centres, our microservice platform in AWS (built from Kubernetes, Cassandra, Kafka, Prometheus and Envoy), and the tooling our engineers use to ship code from their laptops to our customers.
 
 ## Experience
 
